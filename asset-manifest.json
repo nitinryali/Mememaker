@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mememaker/static/css/main.2aae6497.chunk.css",
+    "main.js": "/Mememaker/static/js/main.8e6fc80f.chunk.js",
+    "main.js.map": "/Mememaker/static/js/main.8e6fc80f.chunk.js.map",
+    "runtime-main.js": "/Mememaker/static/js/runtime-main.6400237b.js",
+    "runtime-main.js.map": "/Mememaker/static/js/runtime-main.6400237b.js.map",
+    "static/js/2.495a4e55.chunk.js": "/Mememaker/static/js/2.495a4e55.chunk.js",
+    "static/js/2.495a4e55.chunk.js.map": "/Mememaker/static/js/2.495a4e55.chunk.js.map",
+    "index.html": "/Mememaker/index.html",
+    "static/css/main.2aae6497.chunk.css.map": "/Mememaker/static/css/main.2aae6497.chunk.css.map",
+    "static/js/2.495a4e55.chunk.js.LICENSE.txt": "/Mememaker/static/js/2.495a4e55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6400237b.js",
+    "static/js/2.495a4e55.chunk.js",
+    "static/css/main.2aae6497.chunk.css",
+    "static/js/main.8e6fc80f.chunk.js"
+  ]
+}
